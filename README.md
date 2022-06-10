@@ -23,9 +23,8 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 # Resim
 
-![proje resimi]()
+![proje resimi](https://github.com/Mazahir94/kodluyoruzilkrepo/blob/main/proje%20resimi.png)
 
 
-=======
-# kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+
+
