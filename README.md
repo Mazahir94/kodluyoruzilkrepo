@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Installation
 Öncelikle projeyi clonelayın.
 
@@ -23,3 +24,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 
 
 
+=======
+# kodluyoruzilkrepo
+Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+>>>>>>> 9f4fc689d58bbbbf4a1cad432df0449bf21ef30a
