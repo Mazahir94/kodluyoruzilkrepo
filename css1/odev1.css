@@ -1,0 +1,57 @@
+.bg {
+    background-color: beige;
+text-align: center;
+}
+
+
+#aqua {
+    color: rgb(91, 176, 176);
+    font-style: italic;
+}
+
+#green {
+    color: rgb(101, 133, 53);
+    font-style: italic;
+}
+
+#blue {
+    color: blueviolet;
+    font-style: italic;
+}
+
+h1, h2 {
+    color: rgb(223, 155, 18);
+    font-size: 25px;
+    font-family: 'Asap', sans-serif;
+    
+ }
+
+ .side li {
+    display: inline;
+    font-size: 25px;
+    padding-right: 8px;
+    font-family: 'Asap', sans-serif; 
+
+ }
+
+ img {
+    width: 500px;
+    height: 350px;
+    padding: 20px 0;
+ }
+
+ ul.a {
+    list-style-position: inside;
+ }
+
+ li {
+    font-size: 20px;
+    color: darkorange;
+ }
+
+ .yer {
+    margin-left: 5px;
+    list-style-type: none;
+ }
+
+
